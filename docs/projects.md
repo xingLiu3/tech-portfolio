@@ -11,4 +11,4 @@ a screenshot or GIF to show it.
 You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
 or even embed images with the following Markdown:
 
-![The most recent project](./assets/Screenshot 2020-11-01 153424.png)
+![The most recent project](./assets/proj.png)
