@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Xing Liu', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
     profilePhoto: 'img/profile.png',
-    url: 'https://xingLiu3.github.io', // Your website URL
+    url: 'https://xingliu3.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'xingLiu3',
+    organizationName: 'xingliu3',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -69,7 +69,7 @@ const siteConfig = {
     socialMedia: {
         linkedin: 'xing-liu-8804201ba',
         twitter: 'none',
-        github: 'xingLiu3',
+        github: 'xingliu3',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
