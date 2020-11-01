@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'xliu3',
+        linkedin: 'xing-liu-8804201ba',
         twitter: 'none',
         github: 'xingLiu3',
     },
