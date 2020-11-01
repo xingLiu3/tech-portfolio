@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'xing-liu-8804201ba',
-        twitter: 'none',
+        twitter: '@XingLiu96909506',
         github: 'xingLiu3',
     },
 
